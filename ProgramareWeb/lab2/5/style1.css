@@ -1,0 +1,19 @@
+.container {
+    width: min-content;
+    border: 1px solid black;
+    display: flex;
+}
+
+.image img {
+    width: 100px;
+    height: 150px;
+}
+
+.image {
+    padding: 50px;
+    text-align: center;
+    background-color: cornflowerblue;
+    margin: 20px;
+    width: 110px;
+    height: 160px;
+}

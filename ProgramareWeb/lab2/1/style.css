@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+}
+
+.parinte {
+    width: 400px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+}
+
+.fiu {
+    width: 200px;
+    text-align: center;
+}
+
+.img1 {
+    max-width: 50px;
+}
+
+.img2 {
+    max-width: 200px;
+}
